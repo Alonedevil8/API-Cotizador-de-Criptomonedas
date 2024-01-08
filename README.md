@@ -4,7 +4,7 @@ Este proyecto, denominado "cotizador-de-criptomonedas," es una aplicación web d
 
 ![Screenshot_1](https://github.com/Alonedevil8/API-Cotizador-de-Criptomonedas/assets/6482729/4a79d971-6cf1-4343-82de-4523aa72242d)
 
-[informacion](https://min-api.cryptocompare.com/documentation)
+[cryptocompare](https://min-api.cryptocompare.com/documentation)
 
 
 Características Principales:
