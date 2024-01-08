@@ -1,11 +1,13 @@
 Cotizador de Criptomonedas
 
 Este proyecto, denominado "cotizador-de-criptomonedas," es una aplicación web desarrollada con tecnologías modernas como React, TypeScript, y Vite. Proporciona un servicio de cotización en tiempo real para diversas criptomonedas, permitiendo a los usuarios realizar un seguimiento de los precios y obtener información relevante sobre el mercado de criptomonedas.
-Características Principales
 
 ![Screenshot_1](https://github.com/Alonedevil8/API-Cotizador-de-Criptomonedas/assets/6482729/4a79d971-6cf1-4343-82de-4523aa72242d)
 
+[informacion](https://min-api.cryptocompare.com/documentation)
 
+
+Características Principales:
     React y TypeScript: La aplicación utiliza React para la construcción de interfaces de usuario y TypeScript para agregar tipado estático a JavaScript, mejorando así la robustez y mantenibilidad del código.
 
     Vite: Se ha elegido Vite como el entorno de desarrollo para aprovechar su rapidez en la compilación y su configuración fácil de usar, lo que mejora la eficiencia durante el desarrollo.
