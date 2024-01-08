@@ -8,6 +8,7 @@ Este proyecto, denominado "cotizador-de-criptomonedas," es una aplicación web d
 
 
 Características Principales:
+
     React y TypeScript: La aplicación utiliza React para la construcción de interfaces de usuario y TypeScript para agregar tipado estático a JavaScript, mejorando así la robustez y mantenibilidad del código.
 
     Vite: Se ha elegido Vite como el entorno de desarrollo para aprovechar su rapidez en la compilación y su configuración fácil de usar, lo que mejora la eficiencia durante el desarrollo.
